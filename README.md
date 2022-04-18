@@ -2,7 +2,7 @@ SOFTWARE ARCHITECTURE ASSIGNMENT - 5_6_7
 
     Practical Group 17
     
-Team Members: Nikhitha Syamala Chaluvadi(M14614513), Sai Bhargavi Manchinella(M
+Team Members: Nikhitha Syamala Chaluvadi(M14614513), Sai Bhargavi Manchinella(M14555883)
 
   1. We estimated around 5 hours to do this project, and then it took around 6 hours to complete this project. The installations took more time and so took 6 hours. Otherwise spending 5 hours is a good estimate for this project.
   2. The Automation API hyperlink is a link that is used to refer to another document, method calls, or anything else - which is useful for quick access to code/data and saves time looking for where the code/logic is located.
